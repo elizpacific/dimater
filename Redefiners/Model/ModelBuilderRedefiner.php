@@ -12,6 +12,5 @@ class ModelBuilderRedefiner extends LibraryConfigProvider
      * Endpoint
      */
     public $ENDPOINT = 'https://api.paygate.dipaygo.cloud/';
-//    public $ENDPOINT = 'https://api.online.emspay.eu/';
 
 }
